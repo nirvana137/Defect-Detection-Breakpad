@@ -17,7 +17,9 @@ This project focuses on detecting and measuring holes in brake pads using image 
 1. Clone the repository:
 
 git clone https://github.com/nirvana137/Defect-Detection-Breakpad.git
+
 cd Defect-Detection-Breakpad
 
 2. Install the required dependencies:
+
 pip install -r requirements.txt
